@@ -2,6 +2,6 @@ function sayHello(name) {
     console.log('hello ' + name);
 }
 
-sayHello('Robin');
+sayHello('Nieuw');
 
 console.log(window);
